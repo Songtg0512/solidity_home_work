@@ -1,0 +1,9 @@
+{
+  "name": "My First NFT",
+  "description": "This is a test NFT on Sepolia.",
+  "image": "ipfs://bafkreicw3dscbc2rugjz3qnzkbu5hrythrhcam2lsbcq6fsastmrfppb3q",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}
